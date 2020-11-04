@@ -1,4 +1,4 @@
-const URL="https://treinamentomarciodev.herokuapp.com/validarcpf?cpf="
+const URL="https://treinamentomarciodev.herokuapp.com"
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
